@@ -1,0 +1,29 @@
+facility_id,hospital,period_start,period_end,period_label,median_minutes,patients,release
+440137,Bedford Hospital,2023-04-01,2024-03-31,Mar 2024,131,386,hospitals_2025-02-19
+440137,Bedford Hospital,2023-07-01,2024-06-30,Jun 2024,128,384,hospitals_2025-04-30
+440137,Bedford Hospital,2023-10-01,2024-09-30,Sep 2024,128,384,hospitals_2025-08-14
+440137,Bedford Hospital,2024-01-01,2024-12-31,Dec 2024,124,386,hospitals_2025-11-26
+440137,Bedford Hospital,2024-04-01,2025-03-31,Mar 2025,120,388,hospitals_2026-02-25
+440137,Bedford Hospital,2024-07-01,2025-06-30,Jun 2025,123,385,hospitals_2026-05-13
+440137,Bedford Hospital,2024-10-01,2025-09-30,Sep 2025,125,387,hospitals_2026-08-13
+440144,Tullahoma-Harton Hospital,2023-04-01,2024-03-31,Mar 2024,174,383,hospitals_2025-02-19
+440144,Tullahoma-Harton Hospital,2023-07-01,2024-06-30,Jun 2024,163,381,hospitals_2025-04-30
+440144,Tullahoma-Harton Hospital,2023-10-01,2024-09-30,Sep 2024,174,379,hospitals_2025-08-14
+440144,Tullahoma-Harton Hospital,2024-01-01,2024-12-31,Dec 2024,177,381,hospitals_2025-11-26
+440144,Tullahoma-Harton Hospital,2024-04-01,2025-03-31,Mar 2025,177,387,hospitals_2026-02-25
+440144,Tullahoma-Harton Hospital,2024-07-01,2025-06-30,Jun 2025,173,382,hospitals_2026-05-13
+440144,Tullahoma-Harton Hospital,2024-10-01,2025-09-30,Sep 2025,168,378,hospitals_2026-08-13
+440039,University Medical Center,2023-04-01,2024-03-31,Mar 2024,246,373,hospitals_2025-02-19
+440039,University Medical Center,2023-07-01,2024-06-30,Jun 2024,252,372,hospitals_2025-04-30
+440039,University Medical Center,2023-10-01,2024-09-30,Sep 2024,276,372,hospitals_2025-08-14
+440039,University Medical Center,2024-01-01,2024-12-31,Dec 2024,255,370,hospitals_2025-11-26
+440039,University Medical Center,2024-04-01,2025-03-31,Mar 2025,269,367,hospitals_2026-02-25
+440039,University Medical Center,2024-07-01,2025-06-30,Jun 2025,277,357,hospitals_2026-05-13
+440039,University Medical Center,2024-10-01,2025-09-30,Sep 2025,269,361,hospitals_2026-08-13
+440193,Wilson County Hospital,2023-04-01,2024-03-31,Mar 2024,173,385,hospitals_2025-02-19
+440193,Wilson County Hospital,2023-07-01,2024-06-30,Jun 2024,178,387,hospitals_2025-04-30
+440193,Wilson County Hospital,2023-10-01,2024-09-30,Sep 2024,183,378,hospitals_2025-08-14
+440193,Wilson County Hospital,2024-01-01,2024-12-31,Dec 2024,181,378,hospitals_2025-11-26
+440193,Wilson County Hospital,2024-04-01,2025-03-31,Mar 2025,177,381,hospitals_2026-02-25
+440193,Wilson County Hospital,2024-07-01,2025-06-30,Jun 2025,165,373,hospitals_2026-05-13
+440193,Wilson County Hospital,2024-10-01,2025-09-30,Sep 2025,162,377,hospitals_2026-08-13
